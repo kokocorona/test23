@@ -1,0 +1,5 @@
+mission5:
+http://fs1.co.il/bus/bitcoin.php
+
+mission6:
+http://fs1.co.il/bus/vip.php
